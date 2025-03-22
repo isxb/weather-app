@@ -1,12 +1,12 @@
 # Previsão do Tempo 🌤️
 
+## 📌 Descrição
 Este é um aplicativo de previsão do tempo desenvolvido em Python utilizando a biblioteca `tkinter` para a interface gráfica e a API do OpenWeatherMap para obter dados meteorológicos em tempo real.
 
 ---
 
-## Funcionalidades 🛠️
-
-- **Pesquisa por cidade**: Digite o nome de uma cidade e obtenha informações meteorológicas atualizadas.
+## 🚀 Funcionalidades
+### - **Pesquisa por cidade**: Digite o nome de uma cidade e obtenha informações meteorológicas atualizadas.
 - **Informações detalhadas**:
   - Temperatura atual.
   - Sensação térmica.
@@ -21,6 +21,10 @@ Este é um aplicativo de previsão do tempo desenvolvido em Python utilizando a 
 
 ---
 
+## 🛠 Tecnologias Utilizadas
+- **Python**
+- **Tkinter Framework** (Interface)
+
 ## Pré-requisitos 📋
 
 Antes de executar o projeto, verifique de ter instalado:
@@ -32,3 +36,4 @@ Antes de executar o projeto, verifique de ter instalado:
   - `requests` (para fazer requisições à API).
   - `pytz` (para manipulação de fuso horário).
   - `pycountry-convert` (para obter o continente com base no país).
+
