@@ -29,7 +29,7 @@ Este é um aplicativo de previsão do tempo desenvolvido em Python utilizando a 
 
 Antes de executar o projeto, verifique de ter instalado:
 
-- **Python 3.x**: [Baixe o Python](https://www.python.org/downloads/).
+- **Python3**: [Baixe o Python](https://www.python.org/downloads/).
 - **Bibliotecas necessárias**:
   - `tkinter` (já vem com o Python).
   - `Pillow` (para manipulação de imagens).
